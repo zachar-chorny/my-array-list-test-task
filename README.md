@@ -1,4 +1,6 @@
-# jv-array-list
+# ArrayList test task
+
+### Students task description:
 
 Create your own `ArrayList` class which implements the `List` interface. Override the methods required.
  
